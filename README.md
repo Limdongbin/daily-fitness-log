@@ -1,4 +1,4 @@
-# Daily_Fitness_Log
+# Daily Fitness Log
 
 ## 📌 프로젝트 소개
 
