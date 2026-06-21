@@ -1,4 +1,4 @@
-# fitness-dashboard
+# Daily_Fitness_Log
 
 ## 📌 프로젝트 소개
 
